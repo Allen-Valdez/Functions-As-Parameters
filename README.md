@@ -1,1 +1,2 @@
 # Functions-As-Parameters
+Using functions as parameters, I purposely made some variable and functions with long names to assign them to shorter variables just to show that you can use long named functions without having to type it all out. In case someone in your team decides to do that and for some reason you can not change it. Anyways, I then use functions as parameters in other functions.
